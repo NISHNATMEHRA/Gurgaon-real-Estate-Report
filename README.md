@@ -2,7 +2,7 @@
 ## Introduction
 Gurgaon, also known as Gurugram, is a prominent city in the National Capital Region (NCR) of India and a major hub for real estate development. The introduction section provides an overview of the real estate market in Gurgaon, highlighting key trends in real estate Gurgaon.
 
-## To create a stacked chart and table in Power BI with filters for Flat type, RERA approved status, and BHK count, you can follow these steps:
+### To create a stacked chart and table in Power BI with filters for Flat type, RERA approved status, and BHK count, you can follow these steps:
 ### Import Data: 
 Import your dataset into Power BI Desktop.
 ### Data Cleaning and Transformation: 
